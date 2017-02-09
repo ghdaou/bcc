@@ -18,26 +18,26 @@
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700&amp;subset=cyrillic,latin">
 
 	<!-- CSS Global Compulsory -->
-	<link rel="stylesheet" href="../assets/plugins/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../assets/css/app.css">
-	<link rel="stylesheet" href="../assets/css/blocks.css">
+	<link rel="stylesheet" href="../public/assets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../public/assets/css/app.css">
+	<link rel="stylesheet" href="../public/assets/css/blocks.css">
 
 	<!-- CSS Implementing Plugins -->
-	<link rel="stylesheet" href="../assets/plugins/animate.css">
-	<link rel="stylesheet" href="../assets/plugins/line-icons/line-icons.css">
-	<link rel="stylesheet" href="../assets/plugins/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="../assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+	<link rel="stylesheet" href="../public/assets/plugins/animate.css">
+	<link rel="stylesheet" href="../public/assets/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="../public/assets/plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 	<link rel="stylesheet" href="../assets/plugins/owl-carousel2/assets/owl.carousel.css">
-	<link rel="stylesheet" href="../assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
-	<link rel="stylesheet" href="../assets/plugins/master-slider/masterslider/style/masterslider.css">
-	<link rel="stylesheet" href="../assets/plugins/master-slider/u-styles/testimonials-1.css">
-	<link rel="stylesheet" href="../assets/plugins/master-slider/u-styles/promo-1.css">
+	<link rel="stylesheet" href="../public/assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+	<link rel="stylesheet" href="../public/assets/plugins/master-slider/masterslider/style/masterslider.css">
+	<link rel="stylesheet" href="../public/assets/plugins/master-slider/u-styles/testimonials-1.css">
+	<link rel="stylesheet" href="../public/assets/plugins/master-slider/u-styles/promo-1.css">
 
 	<!-- CSS Theme -->
-	<link rel="stylesheet" href="assets/css/travel.style.css">
+	<link rel="stylesheet" href="/public/assets/css/travel.style.css">
 
 	<!-- CSS Customization -->
-	<link rel="stylesheet" href="assets/css/custom.css">
+	<link rel="stylesheet" href="/public/assets/css/custom.css">
 </head>
 <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.

@@ -27,17 +27,17 @@
 	<link rel="stylesheet" href="../public/assets/plugins/line-icons/line-icons.css">
 	<link rel="stylesheet" href="../public/assets/plugins/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="../public/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
-	<link rel="stylesheet" href="../assets/plugins/owl-carousel2/assets/owl.carousel.css">
+	<link rel="stylesheet" href="../public/assets/plugins/owl-carousel2/assets/owl.carousel.css">
 	<link rel="stylesheet" href="../public/assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
 	<link rel="stylesheet" href="../public/assets/plugins/master-slider/masterslider/style/masterslider.css">
 	<link rel="stylesheet" href="../public/assets/plugins/master-slider/u-styles/testimonials-1.css">
 	<link rel="stylesheet" href="../public/assets/plugins/master-slider/u-styles/promo-1.css">
 
 	<!-- CSS Theme -->
-	<link rel="stylesheet" href="/public/assets/css/travel.style.css">
+	<link rel="stylesheet" href="assets/css/travel.style.css">
 
 	<!-- CSS Customization -->
-	<link rel="stylesheet" href="/public/assets/css/custom.css">
+	<link rel="stylesheet" href="assets/css/custom.css">
 </head>
 <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.
@@ -1031,24 +1031,24 @@
 </main>
 
 <!-- JS Global Compulsory -->
-<script src="../assets/plugins/jquery/jquery.min.js"></script>
-<script src="../assets/plugins/jquery/jquery-migrate.min.js"></script>
-<script src="../assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="../public/assets/plugins/jquery/jquery.min.js"></script>
+<script src="../public/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script src="../public/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- JS Implementing Plugins -->
-<script src="../assets/plugins/smoothScroll.js"></script>
-<script src="../assets/plugins/jquery.easing.min.js"></script>
-<script src="../assets/plugins/owl-carousel2/owl.carousel.min.js"></script>
-<script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-<script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-<script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-<script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
-<script src="../assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+<script src="../public/assets/plugins/smoothScroll.js"></script>
+<script src="../public/assets/plugins/jquery.easing.min.js"></script>
+<script src="../public/assets/plugins/owl-carousel2/owl.carousel.min.js"></script>
+<script src="../public/assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+<script src="../public/assets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+<script src="../public/assets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+<script src="../public/assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+<script src="../public/assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?signed_in=true&amp;callback=initMap" async defer></script><script src="assets/js/plugins/gmaps-ini.js"></script>
-<script src="../assets/plugins/master-slider/masterslider/masterslider.min.js"></script>
+<script src="../public/assets/plugins/master-slider/masterslider/masterslider.min.js"></script>
 
 <!-- JS Page Level -->
-<script src="../assets/js/one.app.js"></script>
+<script src="../public/assets/js/one.app.js"></script>
 <script src="assets/js/plugins/owl-carousel2.js"></script>
 <script src="assets/js/plugins/datepicker.js"></script>
 <script src="assets/js/plugins/promo.js"></script>
@@ -1066,7 +1066,7 @@ $(function() {
 </script>
 
 <!--[if lt IE 10]>
-	<script src="../assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="../public/assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
 </body>
 </html>

@@ -18,26 +18,26 @@
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700&amp;subset=cyrillic,latin">
 
 	<!-- CSS Global Compulsory -->
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/css/app.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/css/blocks.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="OnePageAssets/css/app.css">
+	<link rel="stylesheet" href="OnePageAssets/css/blocks.css">
 
 	<!-- CSS Implementing Plugins -->
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/animate.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/line-icons/line-icons.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/owl-carousel2/assets/owl.carousel.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/master-slider/masterslider/style/masterslider.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/master-slider/u-styles/testimonials-1.css">
-	<link rel="stylesheet" href="../public/OnePageAssets/plugins/master-slider/u-styles/promo-1.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/animate.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/owl-carousel2/assets/owl.carousel.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/master-slider/masterslider/style/masterslider.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/master-slider/u-styles/testimonials-1.css">
+	<link rel="stylesheet" href="OnePageAssets/plugins/master-slider/u-styles/promo-1.css">
 
 	<!-- CSS Theme -->
-	<link rel="stylesheet" href="../public/TravelAssets/css/travel.style.css">
+	<link rel="stylesheet" href="TravelAssets/css/travel.style.css">
 
 	<!-- CSS Customization -->
-	<link rel="stylesheet" href="../public/TravelAssets/css/custom.css">
+	<link rel="stylesheet" href="TravelAssets/css/custom.css">
 </head>
 <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.
@@ -1031,24 +1031,24 @@
 </main>
 
 <!-- JS Global Compulsory -->
-<script src="../public/OnePageAssets/plugins/jquery/jquery.min.js"></script>
-<script src="../public/OnePageAssets/plugins/jquery/jquery-migrate.min.js"></script>
-<script src="../public/OnePageAssets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="OnePageAssets/plugins/jquery/jquery.min.js"></script>
+<script src="OnePageAssets/plugins/jquery/jquery-migrate.min.js"></script>
+<script src="OnePageAssets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- JS Implementing Plugins -->
-<script src="../public/OnePageAssets/plugins/smoothScroll.js"></script>
-<script src="../public/OnePageAssets/plugins/jquery.easing.min.js"></script>
-<script src="../public/OnePageAssets/plugins/owl-carousel2/owl.carousel.min.js"></script>
-<script src="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
-<script src="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
-<script src="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
-<script src="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
-<script src="../public/OnePageAssets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+<script src="OnePageAssets/plugins/smoothScroll.js"></script>
+<script src="OnePageAssets/plugins/jquery.easing.min.js"></script>
+<script src="OnePageAssets/plugins/owl-carousel2/owl.carousel.min.js"></script>
+<script src="OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
+<script src="OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.maskedinput.min.js"></script>
+<script src="OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
+<script src="OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
+<script src="OnePageAssets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?signed_in=true&amp;callback=initMap" async defer></script><script src="TravelAssets/js/plugins/gmaps-ini.js"></script>
-<script src="../public/OnePageAssets/plugins/master-slider/masterslider/masterslider.min.js"></script>
+<script src="OnePageAssets/plugins/master-slider/masterslider/masterslider.min.js"></script>
 
 <!-- JS Page Level -->
-<script src="../public/OnePageAssets/js/one.app.js"></script>
+<script src="OnePageAssets/js/one.app.js"></script>
 <script src="TravelAssets/js/plugins/owl-carousel2.js"></script>
 <script src="TravelAssets/js/plugins/datepicker.js"></script>
 <script src="TravelAssets/js/plugins/promo.js"></script>
@@ -1066,7 +1066,7 @@ $(function() {
 </script>
 
 <!--[if lt IE 10]>
-	<script src="../public/OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
+	<script src="OnePageAssets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 <![endif]-->
 </body>
 </html>

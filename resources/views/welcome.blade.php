@@ -34,10 +34,10 @@
 	<link rel="stylesheet" href="../public/OnePageAssets/plugins/master-slider/u-styles/promo-1.css">
 
 	<!-- CSS Theme -->
-	<link rel="stylesheet" href="TravelAssets/css/travel.style.css">
+	<link rel="stylesheet" href="../public/TravelAssets/css/travel.style.css">
 
 	<!-- CSS Customization -->
-	<link rel="stylesheet" href="TravelAssets/css/custom.css">
+	<link rel="stylesheet" href="../public/TravelAssets/css/custom.css">
 </head>
 <!--
 	The data-spy and data-target are part of the built-in Bootstrap scrollspy function.

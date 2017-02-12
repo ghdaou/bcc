@@ -101,7 +101,7 @@
 
 		<!-- Slide 1 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelTravelAssets/img-temp/promo/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$150.00</strong>
 			</div>
@@ -112,13 +112,13 @@
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non, blandit finibus ante. Nunc venenatis risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
 				<p><a href="#" class="btn-u btn-u-lg btn-u-red btn-u-upper">Take a tour<span class="visible-3xs"> to Karlovy Vary, Czech</span></a></p>
 			</div>
-			<img class="ms-thumb" src="TravelTravelAssets/img-temp/promo/thumbs/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
+			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
 		</div>
 		<!-- End Slide 1 -->
 
 		<!-- Slide 2 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelTravelAssets/img-temp/promo/photo-1420655710207-b092e1b8abe3.jpg" alt="ALT"/>
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1420655710207-b092e1b8abe3.jpg" alt="ALT"/>
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$550.00</strong>
 			</div>
@@ -129,13 +129,13 @@
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
 				<p><a href="#" class="btn-u btn-u-lg btn-u-red btn-u-upper">Take a tour<span class="visible-3xs"> to London, Great Britain</span></a></p>
 			</div>
-			<img class="ms-thumb" src="TravelTravelAssets/img-temp/promo/thumbs/photo-1420655710207-b092e1b8abe3.jpg" alt="thumb">
+			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/photo-1420655710207-b092e1b8abe3.jpg" alt="thumb">
 		</div>
 		<!-- End Slide 2 -->
 
 		<!-- Slide 3 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/greece-2.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/greece-2.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$360.00</strong>
 			</div>
@@ -152,7 +152,7 @@
 
 		<!-- Slide 4 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8248.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8248.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$1300.00</strong>
 			</div>
@@ -169,7 +169,7 @@
 
 		<!-- Slide 5 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK4183.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK4183.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$1300.00</strong>
 			</div>
@@ -186,7 +186,7 @@
 
 		<!-- Slide 6 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1431274172761-fca41d930114.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1431274172761-fca41d930114.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$610.00</strong>
 			</div>
@@ -203,7 +203,7 @@
 
 		<!-- Slide 7 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_IMG_6358.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_IMG_6358.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$340.00</strong>
 			</div>
@@ -220,7 +220,7 @@
 
 		<!-- Slide 8 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8182.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8182.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$2400.00</strong>
 			</div>
@@ -237,7 +237,7 @@
 
 		<!-- Slide 9 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8242.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8242.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$540.00</strong>
 			</div>
@@ -254,7 +254,7 @@
 
 		<!-- Slide 10 -->
 		<div class="ms-slide">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1422226256160-9b266e308ea6.jpg" alt="ALT">
+			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1422226256160-9b266e308ea6.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$5240.00</strong>
 			</div>
@@ -828,7 +828,7 @@
 				<div class="master-slider" id="masterslider">
 					<!-- Item 1 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/1.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/1.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Julia B. Mcraflane</h3>
 							<h4 class="ms-info-position">Company CEO</h4>
@@ -841,7 +841,7 @@
 
 					<!-- Item 2 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/2.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/2.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Amy Clayton</h3>
 							<h4 class="ms-info-position">Programmer</h4>
@@ -854,7 +854,7 @@
 
 					<!-- Item 3 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/3.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/3.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Fred Penner</h3>
 							<h4 class="ms-info-position">Web Developer</h4>
@@ -867,7 +867,7 @@
 
 					<!-- Item 4 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/4.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/4.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Martina Saiz</h3>
 							<h4 class="ms-info-position">UI Designer</h4>
@@ -880,7 +880,7 @@
 
 					<!-- Item 5 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/5.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/5.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Joseph B. Seward</h3>
 							<h4 class="ms-info-position">Developer</h4>
@@ -893,7 +893,7 @@
 
 					<!-- Item 6 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/6.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/6.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Jane Lopex</h3>
 							<h4 class="ms-info-position">Company CEO</h4>
@@ -906,7 +906,7 @@
 
 					<!-- Item 7 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/7.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/7.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">James Ridgway</h3>
 							<h4 class="ms-info-position">IT Manager</h4>
@@ -919,7 +919,7 @@
 
 					<!-- Item 8 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/8.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/8.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">PAatricia Burns</h3>
 							<h4 class="ms-info-position">System Admin</h4>
@@ -932,7 +932,7 @@
 
 					<!-- Item 9 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/9.jpg" alt="ALT"/>
+						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/9.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Terry Thompson</h3>
 							<h4 class="ms-info-position">Reviewer</h4>
@@ -1022,7 +1022,7 @@
 	<div class="footer g-pt-40 g-pb-40">
 		<div class="container">
 			<div class="g-display-table">
-				<div class="g-display-td g-text-middle page-scroll"><a href="#body" class="footer-logo"><img src="TraveAssets/img/logo-dark.png" alt="ALT"></a></div>
+				<div class="g-display-td g-text-middle page-scroll"><a href="#body" class="footer-logo"><img src="TravelAssets/img/logo-dark.png" alt="ALT"></a></div>
 				<div class="g-display-td g-text-middle text-right g-pt-10">&copy; 2016 All right reserved. Deelopment by <a href="http://htmlstream.com">HTML Stream</a></div>
 			</div>
 		</div>

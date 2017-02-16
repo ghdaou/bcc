@@ -64,23 +64,29 @@
 				<div class="menu-container">
 					<ul class="nav navbar-nav">
 						<li class="page-scroll">
-							<a href="#Our-Tours"><span data-hover="Our Tours">Our Tours</span></a>
+							<a href="#Our-Tours"><span data-hover="Our Staff">Our Staff</span></a>
 						</li>
+						<!--
 						<li class="page-scroll">
 							<a href="#Popular-Tours"><span data-hover="Popular Tours">Popular Tours</span></a>
 						</li>
+						-->
 						<li class="page-scroll">
 							<a href="#Subscribe"><span data-hover="Subscribe">Subscribe</span></a>
 						</li>
+						<!--
 						<li class="page-scroll">
 							<a href="#Purposes"><span data-hover="Purposes">Purposes</span></a>
 						</li>
+					-->
 						<li class="page-scroll">
 							<a href="#Services"><span data-hover="Services">Services</span></a>
 						</li>
+						<!--
 						<li class="page-scroll">
 							<a href="#Gallery"><span data-hover="Gallery">Gallery</span></a>
 						</li>
+					-->
 						<li class="page-scroll">
 							<a href="#Testimonials"><span data-hover="Testimonials">Testimonials</span></a>
 						</li>
@@ -101,12 +107,12 @@
 
 		<!-- Slide 1 -->
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Only From <strong>$150.00</strong>
+				Only From <strong>$50.00</strong>
 			</div>
 			<h3 class="ms-layer ms-promo-travel-place hidden-3xs" style="left: 11px; top: 256px;" data-type="text" data-delay="10" data-effect="skewright(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Karlovy Vary, Czech
+				Detartrage
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non, blandit finibus ante. Nunc venenatis risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
@@ -118,12 +124,12 @@
 
 		<!-- Slide 2 -->
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1420655710207-b092e1b8abe3.jpg" alt="ALT"/>
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/dodge.jpg" alt="ALT"/>
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Only From <strong>$550.00</strong>
+				Only From <strong>$400.00</strong>
 			</div>
 			<h3 class="ms-layer ms-promo-travel-place hidden-3xs" style="left: 11px; top: 256px;" data-type="text" data-delay="10" data-effect="skewright(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				London, Great Britain
+				Root Canal
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
@@ -135,12 +141,12 @@
 
 		<!-- Slide 3 -->
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/greece-2.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/greece-2.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Only From <strong>$360.00</strong>
+				Only From <strong>$100.00</strong>
 			</div>
 			<h3 class="ms-layer ms-promo-travel-place hidden-3xs" style="left: 11px; top: 256px;" data-type="text" data-delay="10" data-effect="skewright(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Crete, Greece
+				Fillings
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="10" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non, blandit finibus ante. Nunc venenatis risus in finibus dapibus. </p>
@@ -152,12 +158,12 @@
 
 		<!-- Slide 4 -->
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8248.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8248.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Only From <strong>$1300.00</strong>
+				Only From <strong>$100.00</strong>
 			</div>
 			<h3 class="ms-layer ms-promo-travel-place hidden-3xs" style="left: 11px; top: 256px;" data-type="text" data-delay="10" data-effect="skewright(50,340)" data-ease="easeOutExpo" data-duration="2200">
-				Langkawi, Malaysia
+				Teeth Whitening
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Blandit finibus ante. Nunc venenatis risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
@@ -167,9 +173,9 @@
 		</div>
 		<!-- End Slide 4 -->
 
-		<!-- Slide 5 -->
+		<!-- Slide 5
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK4183.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK4183.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$1300.00</strong>
 			</div>
@@ -182,11 +188,12 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/picjumbo.com_HNCK4183.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- End Slide 5 -->
 
-		<!-- Slide 6 -->
+		<!-- Slide 6
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1431274172761-fca41d930114.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1431274172761-fca41d930114.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$610.00</strong>
 			</div>
@@ -199,11 +206,12 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/photo-1431274172761-fca41d930114.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- End Slide 6 -->
 
-		<!-- Slide 7 -->
+		<!-- Slide 7
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_IMG_6358.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_IMG_6358.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$340.00</strong>
 			</div>
@@ -216,11 +224,12 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/picjumbo.com_IMG_6358.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- End Slide 7 -->
 
-		<!-- Slide 8 -->
+		<!-- Slide 8
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8182.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8182.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$2400.00</strong>
 			</div>
@@ -233,11 +242,12 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/picjumbo.com_HNCK8182.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- Slide 8 -->
 
-		<!-- Slide 9 -->
+		<!-- Slide 9
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8242.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8242.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$540.00</strong>
 			</div>
@@ -250,11 +260,12 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/picjumbo.com_HNCK8242.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- End Slide 9 -->
 
-		<!-- Slide 10 -->
+		<!-- Slide 10
 		<div class="ms-slide">
-			<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1422226256160-9b266e308ea6.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/photo-1422226256160-9b266e308ea6.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$5240.00</strong>
 			</div>
@@ -267,6 +278,7 @@
 			</div>
 			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/photo-1422226256160-9b266e308ea6.jpg" alt="thumb">
 		</div>
+	-->
 		<!-- Slide 10 -->
 
 	</div>
@@ -278,21 +290,20 @@
 			<div class="row">
 				<div class="col-md-3 search-tours-title-wrapper">
 					<div class="container">
-						<h2><em class="block-name">Book Information</em><br> Tour's search</h2>
+						<h2><em class="block-name">Date</em><br> Book An Appointment</h2>
 					</div>
 				</div>
 				<div class="col-md-9 search-tours-col-bg-default">
 					<div class="container">
 						<form action="#" class="sky-form clearfix">
 							<div class="col col-3">
-								<label class="label">Destination</label>
+								<label class="label">Service Type</label>
 								<label class="select">
 									<select>
-										<option value="0" selected>Reservation date</option>
-										<option value="1">Department 1</option>
-										<option value="2">Department 2</option>
-										<option value="3">Department 3</option>
-										<option value="4">Department 4</option>
+										<option value="0" selected>Consultation</option>
+										<option value="1">General Cleaning</option>
+										<option value="2">Root Canal</option>
+										<option value="3">Filling</option>
 									</select>
 									<i></i>
 								</label>
@@ -310,13 +321,14 @@
 								<label class="label">Persons</label>
 								<label class="input">
 									<span class="icon-append fa fa-users"></span>
-									<input type="text" placeholder="Number of persons">
+									<input type="text" placeholder="Number of kids">
 								</label>
 							</div>
-
+<!--
 							<div class="col col-3">
 								<button type="submit" class="btn-u btn-u-lg btn-u-upper">Search</button>
 							</div>
+						-->
 						</form>
 					</div>
 				</div>
@@ -325,10 +337,10 @@
 	</div>
 	<!-- End Search Tours Section -->
 
-	<!-- Our Tours Section -->
+	<!-- Our Staff Section -->
 	<div class="our-tours text-center g-heading-v8 g-pt-85 g-pb-100" id="Our-Tours">
 		<div class="container-fluid">
-			<h2 class="h2"><em class="block-name">Our Tours</em><br> <strong>We can</strong> offer</h2>
+			<h2 class="h2"><em class="block-name">Our Staff</em><br> <strong>We can</strong> offer</h2>
 			<div class="our-tours-list-wrapper">
 				<div class="our-tours-list text-left">
 					<!-- Item 1 -->
@@ -436,7 +448,7 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Our Tours Section -->
+	<!-- End Our Staff Section -->
 
 	<!-- Popular Tours Section -->
 	<div class="popular-tours text-center g-heading-v8 g-pt-85 g-pb-70" id="Popular-Tours">
@@ -589,7 +601,7 @@
 				<!-- Col 1 -->
 				<div class="col-md-6">
 					<div class="special-purposes-item special-purposes-item--big g-mb-30">
-						<div class="img-wrapper img-wrapper--shadow"><img src="TravelAssets/img-temp/special/photo-1420655710207-b092e1b8abe3.jpg" alt="ALT" class="img-responsive"></div>
+						<div class="img-wrapper img-wrapper--shadow"><img src="TravelAssets/img-temp/special/greece-2.jpg" alt="ALT" class="img-responsive"></div>
 						<div class="special-purposes-item-info">
 							<h3><em>Great Britain</em> Big Big London</h3>
 							<p>2 persons, 4 days, 5 nights, 4 stars hotel</p>
@@ -828,7 +840,7 @@
 				<div class="master-slider" id="masterslider">
 					<!-- Item 1 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/1.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/1.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Julia B. Mcraflane</h3>
 							<h4 class="ms-info-position">Company CEO</h4>
@@ -841,7 +853,7 @@
 
 					<!-- Item 2 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/2.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/2.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Amy Clayton</h3>
 							<h4 class="ms-info-position">Programmer</h4>
@@ -854,7 +866,7 @@
 
 					<!-- Item 3 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/3.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/3.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Fred Penner</h3>
 							<h4 class="ms-info-position">Web Developer</h4>
@@ -867,7 +879,7 @@
 
 					<!-- Item 4 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/4.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/4.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Martina Saiz</h3>
 							<h4 class="ms-info-position">UI Designer</h4>
@@ -880,7 +892,7 @@
 
 					<!-- Item 5 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/5.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/5.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Joseph B. Seward</h3>
 							<h4 class="ms-info-position">Developer</h4>
@@ -893,7 +905,7 @@
 
 					<!-- Item 6 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/6.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/6.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Jane Lopex</h3>
 							<h4 class="ms-info-position">Company CEO</h4>
@@ -906,7 +918,7 @@
 
 					<!-- Item 7 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/7.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/7.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">James Ridgway</h3>
 							<h4 class="ms-info-position">IT Manager</h4>
@@ -919,7 +931,7 @@
 
 					<!-- Item 8 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/8.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/8.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">PAatricia Burns</h3>
 							<h4 class="ms-info-position">System Admin</h4>
@@ -932,7 +944,7 @@
 
 					<!-- Item 9 -->
 					<div class="ms-slide">
-						<img src="TravelAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/9.jpg" alt="ALT"/>
+						<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/testimonials/9.jpg" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Terry Thompson</h3>
 							<h4 class="ms-info-position">Reviewer</h4>

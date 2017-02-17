@@ -124,7 +124,7 @@
 
 		<!-- Slide 2 -->
 		<div class="ms-slide">
-			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/dodge.jpg" alt="ALT"/>
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/Maha.jpg" alt="ALT"/>
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$400.00</strong>
 			</div>
@@ -135,13 +135,13 @@
 				<p class="g-mb-20 hidden-sm hidden-xs">Donec erat urna, tincidunt at leo non risus in finibus dapibus. Ut ac massa sodales, mattis enim id, efficitur tortor.</p>
 				<p><a href="#" class="btn-u btn-u-lg btn-u-red btn-u-upper">Take a tour<span class="visible-3xs"> to London, Great Britain</span></a></p>
 			</div>
-			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/photo-1420655710207-b092e1b8abe3.jpg" alt="thumb">
+			<img class="ms-thumb" src="TravelAssets/img-temp/promo/thumbs/photo-1422226256160-9b266e308ea6.jpg" alt="thumb">
 		</div>
 		<!-- End Slide 2 -->
 
 		<!-- Slide 3 -->
 		<div class="ms-slide">
-			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/greece-2.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/maha2.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$100.00</strong>
 			</div>
@@ -158,7 +158,7 @@
 
 		<!-- Slide 4 -->
 		<div class="ms-slide">
-			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/picjumbo.com_HNCK8248.jpg" alt="ALT">
+			<img src="OnePageAssets/plugins/master-slider/masterslider/style/blank.gif" data-src="TravelAssets/img-temp/promo/maha3.jpg" alt="ALT">
 			<div class="ms-layer ms-promo-travel-price hidden-xs" style="left: 15px; top: 182px; opacity: 1;" data-type="text" data-delay="10" data-effect="skewleft(50,340)" data-ease="easeOutExpo" data-duration="2200">
 				Only From <strong>$100.00</strong>
 			</div>
